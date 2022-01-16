@@ -60,7 +60,7 @@
     each lego piece chosen by the child; value is what he will use that piece as.
     Thus, it will be shown that lego's box is our variable where we store lego's pieces.
     And the child, whenever they want, pick any piece and give name/task.
-    
+
 
     6. Think of a site or app you use frequently. What are three variables that are probably
      used? Which data type would each of those variables probably hold?
